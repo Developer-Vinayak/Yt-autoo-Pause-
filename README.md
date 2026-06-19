@@ -1,4 +1,4 @@
-# YouTube Auto Pause on Tab Switch
+# YouTube Auto Pause on Tab Switch(Just For meeee's)
 
 Jab aap YouTube tab se hatkar kisi doosre tab/window par jaate ho, to video
 apne aap **pause** ho jayegi. Jab wapas YouTube tab par aaoge, to video apne
