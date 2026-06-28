@@ -10,7 +10,7 @@ aap **resume** (play) ho jayegi — agar wo pehle se chal rahi thi.
    kar lein.
 2. Chrome kholein aur address bar mein jaayein: `chrome://extensions`
 3. Top-right corner mein **"Developer mode"** ON kar dein.
-4. **"Load unpacked"** button par click karein.
+4. *"Load unpacked"* button par click karein.
 5. `yt-auto-pause` folder select karein (jisme `manifest.json` ho).
 6. Extension install ho jayega — koi icon visible nahi hoga kyunki yeh
    background mein silently kaam karta hai, koi popup/button nahi hai.
